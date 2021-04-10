@@ -3,6 +3,7 @@ import 'package:searchbase/searchbase.dart';
 import 'package:flutter_searchbox/flutter_searchbox.dart';
 import 'package:speech_to_text/speech_to_text.dart' as stt;
 import 'package:speech_to_text/speech_to_text_provider.dart' as stp;
+import './ui/home.dart';
 
 void main() {
   runApp(List());
